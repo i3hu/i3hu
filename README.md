@@ -28,7 +28,7 @@
   <div align=left>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img width=390 height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=i3hu&theme=catppuccin_mocha&include_all_commits=false&count_private=false&hide_border=true&show_icons=true" alt="GitHub Streak" /></a>
   </div>
-  <div align=center>
+  <div align=right>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img width=390 height=250 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i3hu&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a>
   </div>
 </p>
