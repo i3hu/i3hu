@@ -27,8 +27,12 @@
 
 <div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=i3hu&theme=catppuccin_mocha&include_all_commits=false&count_private=false&hide_border=true&show_icons=true" />
+
   <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i3hu&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=i3hu&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" />
 </div>
+
 
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=i3hu&theme=catppuccin&no-frame=true&no-bg=false&margin-w=4" alt="vyshnavlal" /></a></p>
