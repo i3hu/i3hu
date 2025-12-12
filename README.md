@@ -8,14 +8,13 @@
 
 <br>
 <p align="left">
-  I'm <strong>Vyshnavlal</strong>, a passionate <strong>DevOps Engineer</strong> and <strong>System Administrator</strong>. 🚀<br><br>
-  💻 <strong>Loves Linux</strong> – where the magic happens!<br>
-  🔍 Constantly exploring new technologies and ideas.<br>
-  ⚙️ Focused on automation, scalability, and system optimization.<br>
+  I'm a DevOps Engineer & System Admin who's all about making things run smoothly behind the scenes 🚀<br><br>
+  💻 Linux enthusiast - where the real magic happens<br>
+  ⚙️ Obsessed with automation, scaling, and keeping systems in tip-top shape<br>
+  🔍 Always exploring new tech and ideas to level up my game<br>
   🤝 Contributing to various projects and collaborations on <a href="https://vyshnavlal.xyz/projects">Projects</a><br><br>
-  📚 You can also find some of my articles on <a href="https://hashnode.com/@vyshnavlal">Hasnode</a></strong>, where I share insights on DevOps, Linux, and system automation.<br><br>
-  📬 Feel free to reach out</strong>: <a href="mailto:vyshnavlal6367@gmail.com">vyshnavlal6367@gmail.com</a><br>
-  ✨ Let's connect and build something amazing together! 🌟
+  💬 I write about DevOps, Linux, and automation over on Hasnode - check it out if you're into that stuff!<br><br>
+  ✨ Let’s connect and create something cool! You can reach me at </strong>: <a href="mailto:vyshnavlal6367@gmail.com">vyshnavlal6367@gmail.com</a> ✌️
 </p>
 
 <br>
@@ -27,13 +26,13 @@
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <p align=center>
   <div align=left>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img width=390 height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=penguinpal25&theme=catppuccin_mocha&include_all_commits=false&count_private=false&hide_border=true&show_icons=true" alt="GitHub Streak" /></a>    
-    <a href="https://git.io/streak-stats"><img width=420 height=250 align="right" src="https://streak-stats.demolab.com/?user=penguinpal25&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img width=390 height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=i3hu&theme=catppuccin_mocha&include_all_commits=false&count_private=false&hide_border=true&show_icons=true" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img width=420 height=250 align="right" src="https://github-readme-streak-stats.herokuapp.com?user=i3hu&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" /></a> 
   </div>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img width=380 height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=penguinpal25&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img width=380 height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i3hu&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a>
   </div>
 </p>
 
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=penguinpal25&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="vyshnavlal" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=i3hu&theme=catppuccin&no-frame=true&no-bg=false&margin-w=4" alt="vyshnavlal" /></a></p>
