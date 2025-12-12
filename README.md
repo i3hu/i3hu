@@ -24,14 +24,11 @@
 [![My Skills](https://skillicons.dev/icons?i=linux,aws,bash,docker,git,heroku,py,ansible,arch,atom,elasticsearch,flask,github,githubactions,gitlab,gmail,grafana,jenkins,kubernetes,linkedin,md,mint,mysql,nginx,postman,redhat,terraform,ubuntu,vim,vscode,wordpress)](https://skillicons.dev)
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
-<p align=center>
-  <div align=left>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img width=390 height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=i3hu&theme=catppuccin_mocha&include_all_commits=false&count_private=false&hide_border=true&show_icons=true" alt="GitHub Streak" /></a>
-  </div>
-  <div align=right>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img width=390 height=250 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i3hu&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a>
-  </div>
-</p>
+
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=i3hu&theme=catppuccin_mocha&include_all_commits=false&count_private=false&hide_border=true&show_icons=true" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i3hu&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</div>
 
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=i3hu&theme=catppuccin&no-frame=true&no-bg=false&margin-w=4" alt="vyshnavlal" /></a></p>
